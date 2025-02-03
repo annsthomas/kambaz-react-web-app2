@@ -3,10 +3,10 @@ export default function Lab1() {
     return (
         <div id="wd-lab1">
             <h2>Lab 1</h2>
-            <p>Your full name: </p>
-            <p>Section: </p>
-            <p>Email: </p>
-            <p>GitHub URL: </p>
+            <p>Your full name: Ann Thomas </p>
+            <p>Section:37031 </p>
+            <p>Email: thomas.ann@northeastern.edu</p>
+            <p>GitHub URL:https://github.com/annsthomas/kambaz-react-web-app2 </p>
             <h2>Lab Assignments</h2>
             <ul>
                 <li><Link to="/Labs/Lab1">Lab 1</Link></li>
